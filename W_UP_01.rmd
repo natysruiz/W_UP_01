@@ -75,3 +75,10 @@ We conclude that the skill position players can do more pushup on average than c
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+We were assigned to understand the difference between the average number of pushups of line vs the players $H_0$
+and if the average number of pushups done by the line players is statistically different than that of skill players $H_A$ 
+
+We got all of pur data from the "Numerical~Categorical" file , which contains all of the data and boxes that was needed.
+
+The boxplot does show that on average player in the skill positions do more pushups in 2 minutes than do the line players.So there is a difference in the average number of pushups they can do.
+
